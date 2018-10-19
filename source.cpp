@@ -19,7 +19,7 @@ int uCLN(int a, int b)
 		}
 		else
 		{
-			b -= a;
+			b -= b;
 		}
 	}
 	return a;
